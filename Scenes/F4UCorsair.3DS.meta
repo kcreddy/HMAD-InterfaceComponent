@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: c4ce83dd2630e4f49b2901924ff3a0ed
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Aileron Co
+    100002: Box004
+    100004: Box005
+    100006: Box006
+    100008: Box007
+    100010: Box008
+    100012: Canopy
+    100014: Cylinder00
+    100016: Cylinder01
+    100018: Cylinder02
+    100020: Cylinder03
+    100022: Cylinder04
+    100024: Cylinder05
+    100026: Cylinder06
+    100028: Cylinder07
+    100030: Cylinder08
+    100032: Cylinder09
+    100034: Cylinder10
+    100036: Cylinder11
+    100038: Cylinder12
+    100040: Cylinder13
+    100042: Cylinder14
+    100044: Cylinder15
+    100046: Cylinder16
+    100048: Cylinder17
+    100050: Cylinder18
+    100052: Elevator C
+    100054: //RootNode
+    100056: Flap Contr
+    100058: Fuselage
+    100060: Horizonta0
+    100062: Horizonta1
+    100064: Horizonta2
+    100066: Horizontal
+    100068: Landing G0
+    100070: Landing Ge
+    100072: left ailer
+    100074: 'left flap '
+    100076: left flap0
+    100078: left flap1
+    100080: LG Arm Bot
+    100082: LG Arm Top
+    100084: LG Arm003
+    100086: LG Arm004
+    100088: LG Arm1
+    100090: LG Arm2
+    100092: Propeller
+    100094: 'Propeller '
+    100096: Propeller0
+    100098: Propeller1
+    100100: Propeller2
+    100102: right aile
+    100104: right fla0
+    100106: right fla1
+    100108: right flap
+    100110: Rudder
+    100112: Rudder Con
+    100114: Rudder001
+    100116: Tail Wheel
+    100118: Wheel001
+    100120: Wheel002
+    100122: Wing Left
+    100124: Wing Right
+    400000: Aileron Co
+    400002: Box004
+    400004: Box005
+    400006: Box006
+    400008: Box007
+    400010: Box008
+    400012: Canopy
+    400014: Cylinder00
+    400016: Cylinder01
+    400018: Cylinder02
+    400020: Cylinder03
+    400022: Cylinder04
+    400024: Cylinder05
+    400026: Cylinder06
+    400028: Cylinder07
+    400030: Cylinder08
+    400032: Cylinder09
+    400034: Cylinder10
+    400036: Cylinder11
+    400038: Cylinder12
+    400040: Cylinder13
+    400042: Cylinder14
+    400044: Cylinder15
+    400046: Cylinder16
+    400048: Cylinder17
+    400050: Cylinder18
+    400052: Elevator C
+    400054: //RootNode
+    400056: Flap Contr
+    400058: Fuselage
+    400060: Horizonta0
+    400062: Horizonta1
+    400064: Horizonta2
+    400066: Horizontal
+    400068: Landing G0
+    400070: Landing Ge
+    400072: left ailer
+    400074: 'left flap '
+    400076: left flap0
+    400078: left flap1
+    400080: LG Arm Bot
+    400082: LG Arm Top
+    400084: LG Arm003
+    400086: LG Arm004
+    400088: LG Arm1
+    400090: LG Arm2
+    400092: Propeller
+    400094: 'Propeller '
+    400096: Propeller0
+    400098: Propeller1
+    400100: Propeller2
+    400102: right aile
+    400104: right fla0
+    400106: right fla1
+    400108: right flap
+    400110: Rudder
+    400112: Rudder Con
+    400114: Rudder001
+    400116: Tail Wheel
+    400118: Wheel001
+    400120: Wheel002
+    400122: Wing Left
+    400124: Wing Right
+    2300000: Aileron Co
+    2300002: Box004
+    2300004: Box005
+    2300006: Box006
+    2300008: Box007
+    2300010: Box008
+    2300012: Canopy
+    2300014: Cylinder00
+    2300016: Cylinder01
+    2300018: Cylinder02
+    2300020: Cylinder03
+    2300022: Cylinder04
+    2300024: Cylinder05
+    2300026: Cylinder06
+    2300028: Cylinder07
+    2300030: Cylinder08
+    2300032: Cylinder09
+    2300034: Cylinder10
+    2300036: Cylinder11
+    2300038: Cylinder12
+    2300040: Cylinder13
+    2300042: Cylinder14
+    2300044: Cylinder15
+    2300046: Cylinder16
+    2300048: Cylinder17
+    2300050: Cylinder18
+    2300052: Elevator C
+    2300054: Flap Contr
+    2300056: Fuselage
+    2300058: Horizonta0
+    2300060: Horizonta1
+    2300062: Horizonta2
+    2300064: Horizontal
+    2300066: Landing G0
+    2300068: Landing Ge
+    2300070: left ailer
+    2300072: 'left flap '
+    2300074: left flap0
+    2300076: left flap1
+    2300078: LG Arm Bot
+    2300080: LG Arm Top
+    2300082: LG Arm003
+    2300084: LG Arm004
+    2300086: LG Arm1
+    2300088: LG Arm2
+    2300090: Propeller
+    2300092: 'Propeller '
+    2300094: Propeller0
+    2300096: Propeller1
+    2300098: Propeller2
+    2300100: right aile
+    2300102: right fla0
+    2300104: right fla1
+    2300106: right flap
+    2300108: Rudder
+    2300110: Rudder Con
+    2300112: Rudder001
+    2300114: Tail Wheel
+    2300116: Wheel001
+    2300118: Wheel002
+    2300120: Wing Left
+    2300122: Wing Right
+    3300000: Aileron Co
+    3300002: Box004
+    3300004: Box005
+    3300006: Box006
+    3300008: Box007
+    3300010: Box008
+    3300012: Canopy
+    3300014: Cylinder00
+    3300016: Cylinder01
+    3300018: Cylinder02
+    3300020: Cylinder03
+    3300022: Cylinder04
+    3300024: Cylinder05
+    3300026: Cylinder06
+    3300028: Cylinder07
+    3300030: Cylinder08
+    3300032: Cylinder09
+    3300034: Cylinder10
+    3300036: Cylinder11
+    3300038: Cylinder12
+    3300040: Cylinder13
+    3300042: Cylinder14
+    3300044: Cylinder15
+    3300046: Cylinder16
+    3300048: Cylinder17
+    3300050: Cylinder18
+    3300052: Elevator C
+    3300054: Flap Contr
+    3300056: Fuselage
+    3300058: Horizonta0
+    3300060: Horizonta1
+    3300062: Horizonta2
+    3300064: Horizontal
+    3300066: Landing G0
+    3300068: Landing Ge
+    3300070: left ailer
+    3300072: 'left flap '
+    3300074: left flap0
+    3300076: left flap1
+    3300078: LG Arm Bot
+    3300080: LG Arm Top
+    3300082: LG Arm003
+    3300084: LG Arm004
+    3300086: LG Arm1
+    3300088: LG Arm2
+    3300090: Propeller
+    3300092: 'Propeller '
+    3300094: Propeller0
+    3300096: Propeller1
+    3300098: Propeller2
+    3300100: right aile
+    3300102: right fla0
+    3300104: right fla1
+    3300106: right flap
+    3300108: Rudder
+    3300110: Rudder Con
+    3300112: Rudder001
+    3300114: Tail Wheel
+    3300116: Wheel001
+    3300118: Wheel002
+    3300120: Wing Left
+    3300122: Wing Right
+    4300000: Flap Contr
+    4300002: Aileron Co
+    4300004: Elevator C
+    4300006: Rudder Con
+    4300008: Fuselage
+    4300010: Wing Left
+    4300012: 'left flap '
+    4300014: left flap0
+    4300016: left flap1
+    4300018: left ailer
+    4300020: Box006
+    4300022: Wheel001
+    4300024: Landing Ge
+    4300026: Landing G0
+    4300028: Wheel002
+    4300030: Box008
+    4300032: right aile
+    4300034: right flap
+    4300036: right fla0
+    4300038: right fla1
+    4300040: Canopy
+    4300042: Rudder
+    4300044: Rudder001
+    4300046: Horizontal
+    4300048: Horizonta0
+    4300050: Horizonta1
+    4300052: Horizonta2
+    4300054: Cylinder00
+    4300056: Box004
+    4300058: Tail Wheel
+    4300060: Box005
+    4300062: Propeller
+    4300064: 'Propeller '
+    4300066: Cylinder01
+    4300068: Cylinder03
+    4300070: Box007
+    4300072: LG Arm Top
+    4300074: LG Arm Bot
+    4300076: LG Arm1
+    4300078: LG Arm2
+    4300080: LG Arm003
+    4300082: LG Arm004
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
