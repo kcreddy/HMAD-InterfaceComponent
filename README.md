@@ -11,6 +11,11 @@ Defend Battleship is a subgenre shooting game. The purpose of this Game Applicat
 * Simple control system with respect to interface component that helps the ship to choose the range for target shoots on the screen.
 * Touch on the screen to shoot at opponent's plane and destroy them.
 * Implementing Wave 1, Wave 2 and Wave 3 of the game play to provide environment of Battleships in real history and to define a difficulty level for the game.
+* Simple and elegant User Interface with water wave motion.
+* Randomized  movement of the planes.
+* Explosions when the opponent planes are destroyed.
+* Provide environment of Battleships in real history.
+
 
 ## Additional features (Future Work):
 
