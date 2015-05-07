@@ -1,0 +1,116 @@
+Scenes and scripts attached to the Objects ( prefabs).
+
+-----------------
+Scene name:  StartingScene
+
+scripts attahced
+
+Prefab: Plane:
+
+HealthSCriptScene.cs
+MoveScriptScene.cs
+---------------
+Scene name: TapScene
+
+scripts attached
+
+TapScript.cs
+Background.cs
+
+-----------------
+Scene name:  Menu1
+
+scripts attached
+
+MenuFadeScrip.cs
+Background.cs
+
+-----------------
+Scene name:  Wave1
+
+scripts attached
+
+Prefab : Plane:
+
+MoveScript.cs
+HealthScript.cs
+ShootongScript.cs
+
+Prefab : Missile:
+ShotScrit.cs
+
+Prefab : Battleship:
+WeaponScript.cs
+PlaneInstantiate.cs
+BattleHealthScript.cs
+
+-----------------
+Scene name: GameOver
+
+scripts attached
+
+TapScript.cs
+Background.cs
+
+-----------------
+Scene name: Menu2
+
+scripts attached
+
+MenuFadeScrip.cs
+Background.cs
+
+-----------------
+Scene name: Wave2
+
+scripts attached
+
+Prefab : Plane:
+
+MoveScript.cs
+HealthScript.cs
+ShootongScript.cs
+
+Prefab : Missile:
+ShotScrit.cs
+
+Prefab : Battleship:
+WeaponScript.cs
+PlaneInstantiate2.cs
+BattleHealthScript.cs
+
+-----------------
+Scene name: Menu3
+
+scripts attached
+
+MenuFadeScrip.cs
+Background.cs
+
+-----------------
+Scene name: Wave3
+
+scripts attached
+
+Prefab : Plane:
+
+MoveScript.cs
+HealthScript.cs
+ShootongScript.cs
+
+Prefab : Missile:
+ShotScrit.cs
+
+Prefab : Battleship:
+WeaponScript.cs
+PlaneInstantiate2.cs
+BattleHealthScript.cs
+
+-----------------
+Scene name: WonGame:
+
+scripts attached
+
+TapScript.cs
+Background.cs
+-----------------
